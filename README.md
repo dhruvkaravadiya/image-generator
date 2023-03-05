@@ -1,3 +1,5 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple Image Generator using React JS by consuming DELL - E for Image Genearation configuration provided by OpenAI 
+
+<a href = "https://dhruvk-image-generator.netlify.app/">Live Site</a>
